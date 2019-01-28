@@ -1,0 +1,15 @@
+CAS,Species,SMILES,YSI
+534-22-5,2-methylfuran,Cc1ccco1,41.5
+3208-16-0,2-ethylfuran,CCc1ccco1,46.9
+4229-91-8,2-propylfuran,CCCc1ccco1,53.8
+4466-24-4,2-butylfuran,CCCCc1ccco1,58.6
+14920-89-9,"2,3-dimethylfuran",Cc1ccoc1C,54.6
+625-86-5,"2,5-dimethylfuran",Cc1ccc(C)o1,55.1
+109-99-9,oxolane,C1CCOC1,20.1
+1191-99-7,"2,3-dihydrofuran",C1=COCC1,24.941878904949633
+1708-29-8,"2,5-dihydrofuran",C1=CCOC1,25.115390201640224
+96-47-9,2-methyloxolane,CC1CCCO1,30.558893366639094
+1003-38-9,"2,5-dimethyloxolane",CC1CCC(C)O1,43.4
+98-01-1,furan-2-carbaldehyde,O=Cc1ccco1,28.3
+98-00-0,furan-2-ylmethanol,OCc1ccco1,38.06353138999456
+620-02-0,5-methylfuran-2-carbaldehyde,Cc1ccc(C=O)o1,44.116013920586816
