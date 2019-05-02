@@ -1,0 +1,18 @@
+Species,YSI,SMILES,CAS
+2-~{tert}-butylfuran,107.5,CC(C)(C)c1ccco1,
+hex-2-yne,66.9,CC#CCCC,764-35-2
+hept-2-yne,75.2,CC#CCCCC,1119-65-9
+oct-2-yne,81.2,CC#CCCCCC,2809-67-8
+"2,6,10-trimethyldodecane",109.8,CCC(C)CCCC(C)CCCC(C)C,3891-98-3
+1-pentoxypentane,49.8,CCCCCOCCCCC,
+2-(2-ethoxyethoxy)ethanol,15.1,CCOCCOCCO,111-90-0
+2-[2-(2-methoxypropoxy)propoxy]propan-1-ol,40.6,COC(C)COC(C)COC(C)CO,
+nonan-2-ol,47.3,CCCCCCCC(C)O,628-99-9
+hexyl hexanoate,66.7,CCCCCCOC(=O)CCCCC,
+methyl decanoate,50.4,CCCCCCCCCC(=O)OC,
+4-butoxyheptane,60.3,CCCCOC(CCC)CCC,
+6-ethoxyundecane,68.5,CCCCCC(CCCCC)OCC,
+4-hexoxyheptane,73.3,CCCCCCOC(CCC)CCC,
+methyl undecanoate,58.5,CCCCCCCCCCC(=O)OC,
+2-phenylacetaldehyde,217.6,O=CCc1ccccc1,122-78-1
+1-phenylethanone,130.8,CC(=O)c1ccccc1,98-86-2
