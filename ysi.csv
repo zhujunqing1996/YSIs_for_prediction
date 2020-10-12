@@ -25,7 +25,7 @@ methyl lactate cyclopropyl ether,,esters,COC(=O)C(C)OCC1CC1,43.5,2.2
 diisoamyl hydroxybutyrate,,esters,CC(C)CCOCCCC(=O)OCCC(C)C,81.7,4.1
 diisoamyl glycolate,,esters,CC(C)CCOCC(=O)OCCC(C)C,70.6,3.5
 "2,4,6,8-tetraoxanonane",13353-03-2,polyoxymethylene ethers,COCOCOCOC,2.8,1.8
-n-hexadecane,544-76-3,,CCCCCCCCCCCCCCCC,88.25786508335544,4.4128932541677734
+n-hexadecane,544-76-3,,CCCCCCCCCCCCCCCC,88.25786508335544,4.412893254167773
 n-pentadecane,629-62-9,,CCCCCCCCCCCCCCC,84.11564161777372,4.205782080888686
 n-tetradecane,629-59-4,,CCCCCCCCCCCCCC,78.43050339448413,3.921525169724206
 n-tridecane,629-50-5,,CCCCCCCCCCCCC,72.5129667327497,3.625648336637485
@@ -56,7 +56,7 @@ methyl undecanoate,,,CCCCCCCCCCC(=O)OC,58.5,
 "2,3-dimethylfuran",14920-89-9,,Cc1ccoc1C,54.6,
 "2,5-dimethylfuran",625-86-5,,Cc1ccc(C)o1,55.1,
 oxolane,109-99-9,,C1CCOC1,20.1,
-"2,3-dihydrofuran",1191-99-7,,C1=COCC1,24.941878904949636,
+"2,3-dihydrofuran",1191-99-7,,C1=COCC1,24.94187890494964,
 "2,5-dihydrofuran",1708-29-8,,C1=CCOC1,25.115390201640224,
 2-methyloxolane,96-47-9,,CC1CCCO1,30.55889336663909,
 "2,5-dimethyloxolane",1003-38-9,,CC1CCC(C)O1,43.4,
@@ -107,13 +107,13 @@ Propargylamine,2450-71-7,,C#CCN,25.354331406647486,
 "N,N-dimethylallylamine",2155-94-4,,C=CCN(C)C,34.60957651969491,
 allylamine,107-11-9,,C=CCN,30.791151743181967,
 formamide,75-12-7,,NC=O,-3.1015238019745155,
-N-ethylformamide,627-45-2,,CCNC=O,4.3091066807672584,
+N-ethylformamide,627-45-2,,CCNC=O,4.309106680767258,
 N-(1-pentyl)formamide,2591-79-9,,CCCCCNC=O,19.13820218507689,
 N-(phenethyl)formamide,23069-99-0,,O=CNCCc1ccccc1,216.78343147031853,
 quinoline,91-22-5,,c1ccc2ncccc2c1,214.59914175313355,
 dibutylamine,111-92-2,,CCCCNCCCC,31.27368764707159,
 tributylamine,102-82-9,,CCCCN(CCCC)CCCC,53.383361417338726,
-"N,N-dimethylformamide",68-12-2,,CN(C)C=O,6.550386843087238,
+"N,N-dimethylformamide",68-12-2,,CN(C)C=O,6.550386843087237,
 "N,N-dimethylacetamide",127-19-5,,CC(=O)N(C)C,9.688635793253884,
 quinaldine,91-63-4,,Cc1ccc2ccccc2n1,311.1865273287641,
 N-butylaniline,1126-78-9,,CCCCNc1ccccc1,124.48558725859422,
@@ -123,7 +123,7 @@ tert-butyl nitrite,540-80-7,,CC(C)(C)ON=O,11.192841538074248,
 Isopropyl nitrate ,‎1712-64-7,,CC(C)O[N+](=O)[O-],1.0531128274361024,
 1-methyl indole,603-76-9,,Cn1ccc2ccccc21,220.11792666444504,
 indoline,496-15-1,,c1ccc2c(c1)CCN2,176.05255891606518,
-benzophenone imine,1013-88-3,,N=C(c1ccccc1)c1ccccc1,447.57092252166467,
+benzophenone imine,1013-88-3,,N=C(c1ccccc1)c1ccccc1,447.5709225216647,
 "1,5-Diazabicyclo[4.3.0]non-5-ene",3001-72-7,,C1CN=C2CCCN2C1,27.89167748368153,
 "1,2,3,4-tetrahydroquinoline",635-46-1,,c1ccc2c(c1)CCCN2,155.06364333353852,
 Acetonitrile,75-05-8,,CC#N,1.0290075608425866,
@@ -133,11 +133,11 @@ Pyridazine,289-80-5,,c1ccnnc1,15.43851190540325,
 Azetidine,503-29-7,,C1CNC1,6.10203436630718,
 "2,2,4,4-tetramethyl-3-pentanone imine",29097-52-7,,CC(C)(C)C(=N)C(C)(C)C,62.29861294496168,
 N-methylpropionamide,1187-58-2,,CCC(=O)NC,7.0226122074924335,
-"1,8-Diazabicyclo[5.4.0]undec-7-ene",6674-22-2,,C1CCC2=NCCCN2CC1,45.912726980125456,
+"1,8-Diazabicyclo[5.4.0]undec-7-ene",6674-22-2,,C1CCC2=NCCCN2CC1,45.91272698012546,
 Nitrobenzene,98-95-3,,O=[N+]([O-])c1ccccc1,98.94593855197706,
 Pyrrole,109-97-7,,c1cc[nH]c1,22.914535856801706,
-benzylamine,100-46-9,,NCc1ccccc1,196.82117177068517,
-Valeronitrile,110-59-8,,CCCCC#N,21.657673733215987,
+benzylamine,100-46-9,,NCc1ccccc1,196.8211717706852,
+Valeronitrile,110-59-8,,CCCCC#N,21.65767373321599,
 N-benzylmethylamine,103-67-3,,CNCc1ccccc1,193.04608878989941,
 N-ethylaniline,103-69-5,,CCNc1ccccc1,110.81166182754791,
 N-methylaniline,100-61-8,,CNc1ccccc1,104.17137242928943,
@@ -596,3 +596,13 @@ diethylamine,109-89-7,saturated amine,CCNCC,13.2,5.0
 1-methylpiperidine,626-67-5,cyclic amine,CN1CCCCC1,27.9,5.0
 N-methylallylamine,627-37-2,unsaturated amine,C=CCNC,25.3,5.0
 N-ethylbutylamine,13360-63-9,saturated amine,CCCCNCC,22.1,5.0
+"2,4,6,8-tetraoxanonane",13353-03-2,polyoxymethylene ethers,COCOCOCOC,0.5,5.0
+"2,4,6,8,10-pentaoxaundecane",13352-75-5,polyoxymethylene ethers,COCOCOCOCOC,-2.5,5.0
+"2,4,6,8,10,12-hexaoxatridecane",13352-76-6,polyoxymethylene ethers,COCOCOCOCOCOC,-4.8,5.0
+dipropoxymethane,505-84-0,polyoxymethylene ethers,CCCOCOCCC,30.8,5.0
+2-methoxyethanol,109-86-4,POME-related compounds,COCCO,5.9,5.0
+diethylene glycol ,111-46-6,POME-related compounds,OCCOCCO,7.9,5.0
+diethylene glycol diethyl ether ,112-36-7,POME-related compounds,CCOCCOCCOCC,17.7,5.0
+tetraethyl orthocarbonate ,78-09-1,POME-related compounds,CCOC(OCC)(OCC)OCC,25.1,5.0
+"5,7,9-trioxatridecane",5614-25-5,polyoxymethylene ethers,CCCCOCOCOCCCC,42.7,5.0
+"5,7,9,11-tetraoxapentadecane",,polyoxymethylene ethers,CCCCOCOCOCOCCCC,37.8,5.0
