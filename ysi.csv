@@ -24,8 +24,7 @@ methyl lactate cyclopropyl ether,,esters,COC(=O)C(C)OCC1CC1,43.5,2.2
 "ethyl 3,3 diethyoxy propionate",,esters,CCOC(=O)CC(OCC)OCC,27.4,1.4
 diisoamyl hydroxybutyrate,,esters,CC(C)CCOCCCC(=O)OCCC(C)C,81.7,4.1
 diisoamyl glycolate,,esters,CC(C)CCOCC(=O)OCCC(C)C,70.6,3.5
-"2,4,6,8-tetraoxanonane",13353-03-2,polyoxymethylene ethers,COCOCOCOC,2.8,1.8
-n-hexadecane,544-76-3,,CCCCCCCCCCCCCCCC,88.25786508335544,4.412893254167773
+n-hexadecane,544-76-3,,CCCCCCCCCCCCCCCC,88.25786508335544,4.4128932541677734
 n-pentadecane,629-62-9,,CCCCCCCCCCCCCCC,84.11564161777372,4.205782080888686
 n-tetradecane,629-59-4,,CCCCCCCCCCCCCC,78.43050339448413,3.921525169724206
 n-tridecane,629-50-5,,CCCCCCCCCCCCC,72.5129667327497,3.625648336637485
@@ -107,7 +106,7 @@ Propargylamine,2450-71-7,,C#CCN,25.354331406647486,
 "N,N-dimethylallylamine",2155-94-4,,C=CCN(C)C,34.60957651969491,
 allylamine,107-11-9,,C=CCN,30.791151743181967,
 formamide,75-12-7,,NC=O,-3.1015238019745155,
-N-ethylformamide,627-45-2,,CCNC=O,4.309106680767258,
+N-ethylformamide,627-45-2,,CCNC=O,4.3091066807672584,
 N-(1-pentyl)formamide,2591-79-9,,CCCCCNC=O,19.13820218507689,
 N-(phenethyl)formamide,23069-99-0,,O=CNCCc1ccccc1,216.78343147031853,
 quinoline,91-22-5,,c1ccc2ncccc2c1,214.59914175313355,
@@ -123,7 +122,7 @@ tert-butyl nitrite,540-80-7,,CC(C)(C)ON=O,11.192841538074248,
 Isopropyl nitrate ,‎1712-64-7,,CC(C)O[N+](=O)[O-],1.0531128274361024,
 1-methyl indole,603-76-9,,Cn1ccc2ccccc21,220.11792666444504,
 indoline,496-15-1,,c1ccc2c(c1)CCN2,176.05255891606518,
-benzophenone imine,1013-88-3,,N=C(c1ccccc1)c1ccccc1,447.5709225216647,
+benzophenone imine,1013-88-3,,N=C(c1ccccc1)c1ccccc1,447.57092252166467,
 "1,5-Diazabicyclo[4.3.0]non-5-ene",3001-72-7,,C1CN=C2CCCN2C1,27.89167748368153,
 "1,2,3,4-tetrahydroquinoline",635-46-1,,c1ccc2c(c1)CCCN2,155.06364333353852,
 Acetonitrile,75-05-8,,CC#N,1.0290075608425866,
