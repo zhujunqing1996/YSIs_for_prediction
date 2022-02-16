@@ -1,34 +1,34 @@
 Species,CAS,Type,SMILES,YSI,YSI_err
-"ethyl 2,2-diethoxypropanoate",7476-20-2,esters,CC(OCC)(OCC)C(=O)OCC,27.5,2.0
-"isopentyl 2,2-bis(isopentyloxy)acetate",,esters,O=C(OCCC(C)C)C(OCCC(C)C)OCCC(C)C,107.0,5.3
+"ethyl 2,2-diethoxypropanoate",7476-20-2,esters,CC(OCC)(OCC)C(=O)OCC,27.5,2
+"isopentyl 2,2-bis(isopentyloxy)acetate",,esters,O=C(OCCC(C)C)C(OCCC(C)C)OCCC(C)C,107,5.3
 R-limonene,5989-27-5,terpenes,C=C(C)[C@H]1CC=C(C)CC1,137.3,6.9
-"para-methane (limonane, 1-methyl-4-isopropylcyclohexane)",99-82-1,terpenes,CC1CCC(C(C)C)CC1,92.0,4.6
+"para-methane (limonane, 1-methyl-4-isopropylcyclohexane)",99-82-1,terpenes,CC1CCC(C(C)C)CC1,92,4.6
 sabinene,3387-41-5,terpenes,C=C1CCC2(C(C)C)CC12,203.7,10.2
 dihydrosabinene (thujane),471-12-5,terpenes,CC1CCC2(C(C)C)CC12,144.5,7.2
 "tetrahydrosabinene (1,3-dimethyl-3-isopropylcyclopentane)",,terpenes,CC1CCC(C1)(C)C(C)C,104.9,5.2
-_-pinene,80-56-8,terpenes,CC1=CCC2CC1C2(C)C,207.1,10.4
-_-pinene,18172-67-3,terpenes,CC1([C@H]2CCC(=C)[C@@H]1C2)C,136.9,6.8
+alpha-pinene,80-56-8,terpenes,CC1=CCC2CC1C2(C)C,207.1,10.4
+beta-pinene,18172-67-3,terpenes,CC1([C@H]2CCC(=C)[C@@H]1C2)C,136.9,6.8
 pinane,473-55-2,terpenes,CC1CCC2CC1C2(C)C,109.7,5.5
 3-carene,13466-78-9,terpenes,CC1=CCC2C(C1)C2(C)C,248.5,12.4
 dihydrocarene (carane),554-59-6,terpenes,CC1CCC2C(C1)C2(C)C,144.1,7.2
-"tetrahydrocarene (1,1,4-trimethylcycloheptane)",2158-55-6,terpenes,CC1CCCC(C)(C)CC1,99.1,5.0
+"tetrahydrocarene (1,1,4-trimethylcycloheptane)",2158-55-6,terpenes,CC1CCCC(C)(C)CC1,99.1,5
 "1,4-dimethylcyclooctane",33657-56-6,terpenes,CC1CCCCC(C)CC1,84.7,4.2
-"1,8-cineole",470-82-6,terpenes,CC1(C2CCC(O1)(CC2)C)C,111.0,5.5
+"1,8-cineole",470-82-6,terpenes,CC1(C2CCC(O1)(CC2)C)C,111,5.5
 "1,4-cineole",470-67-7,terpenes,CC(C)C12CCC(O1)(CC2)C,104.6,5.2
 S-carvone,2244-16-8,terpenes,CC1=CC[C@@H](CC1=O)C(=C)C,126.4,6.3
 R-carvone,6485-40-1,terpenes,CC1=CC[C@H](CC1=O)C(=C)C ,127.7,6.4
 myrcene,123-35-3,terpenes,CC(=CCCC(=C)C=C)C,103.6,5.2
-_-ocimene,13877-91-3,terpenes,CC(=CCC=C(C)C=C)C,213.6,10.7
+beta-ocimene,13877-91-3,terpenes,CC(=CCC=C(C)C=C)C,213.6,10.7
 dihydromyrcene,2436-90-0,terpenes,CC(C=C)CC/C=C(C)\C,110.9,5.5
 geranial,5392-40-5,terpenes,CC(=CCCC(=CC=O)C)C,91.8,4.6
 geraniol,106-24-1,terpenes,CC(=CCCC(=CCO)C)C,103.7,5.2
 citronellal,106-23-0,terpenes,CC(CCC=C(C)C)CC=O,85.6,4.3
 carvacrol,499-75-2,terpenes,CC1=C(C=C(C=C1)C(C)C)O,193.1,9.7
-linalool,126-91-0,terpenes,CC(=CCCC(C)(C=C)O)C,98.0,4.9
+linalool,126-91-0,terpenes,CC(=CCCC(C)(C=C)O)C,98,4.9
 C10 (3-ethyl-4-methylheptane),,linear alkanes,CCC(CC)C(C)CCC,67.6,3.4
 C18 (5-butyl-6-propylundecane),,linear alkanes,CCCCC(CCCC)C(CCC)CCCCC,121.8,6.1
 C22 (7-butyl-6-pentyltridecane),,linear alkanes,CCCCCC(CCCCC)C(CCCC)CCCCCC,133.1,6.7
-isocetane,4390-04-9,alkanes,CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C,128,6.4
+isocetane,4/9/90,alkanes,CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C,128,6.4
 "1,4-cyclohexanedimethanol divinyl ether",17351-75-6,oxygenates,C=COCC1CCC(COC=C)CC1,130.5,6.5
 gamma-Undecalactone,104-67-6,esters,CCCCCCCC1CCC(=O)O1,58.2,2.9
 ethyl decanoate,110-38-3,esters,CCCCCCCCCC(=O)OCC,58,2.9
